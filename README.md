@@ -1,0 +1,2 @@
+# Tcl File Reading Bug
+This repository demonstrates a common error in Tcl code related to file reading and proposes a more robust solution. The original code lacks proper error handling, which can lead to program crashes or unexpected behavior when attempting to read non-existent files. The improved code adds more comprehensive error handling, making it more robust.
